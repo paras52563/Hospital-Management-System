@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/homepage/BeautifulProgressBar.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/homepage/HospitalHomePage.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/homepage/AboutPage.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/homepage/ContactPage.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PatientLogin.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/AdminLogin.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/MedicinePrescriptionDataAnalysisSimple.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/AdminDashboardModernUI.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/DoctorDisplayModern.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/DoctorMainDashboard.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/AddMedicineModern.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/AdminSetting.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/InventoryManagement.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/InsertDoctorApp.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/AddMedicalRecord.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/SessionManager.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/PatientLogin.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/UpdateDeleteDoctorApp.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/PatientUpdateDeleteApp.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/BookPatientAppointment.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/PatientDisplayModern.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/AdminAnalyticalDashboardFull.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/ViewMedicinesModernViewOnly.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/PharmacyDashboardModern.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/StockAlertPanel.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/PharmacyProgressBar.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/ExpiredMedicinesModule.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/ViewPrescriptionsPharmacyPanel.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/PatientRegistrationApp.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/hospital_management_system/PatientRegistrationApp.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/PatientMainDashboard.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/DoctorConfirmAppointment.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/ViewDoctorAppointmentsModern.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/DoctorLoginSystem.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/MedicalHistoryNotes.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PatientAppointmentManager.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PrescriptionViewer.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PatientReports.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PatientProgressBar.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/PatientDashboard.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/DoctorDashboard.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/AddPrescriptionForConfirmedPatients.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Pharmacy/PharmacyBillingSystem.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/DoctorPatientHistoryBySelection.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/doctor/UpdateDoctorProfile.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Patient/ViewPatientProfile.java</file>
+            <file>file:/D:/MCA/netbeans/Hospital_Management_System/src/Admin/AdminContactMessagesModern.java</file>
+        </group>
+    </open-files>
+</project-private>
